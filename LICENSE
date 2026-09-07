@@ -1,3 +1,31 @@
+# 🛠️ ServiceNow Ticket Management Workflow
+
+## 🎯 Objective
+The purpose of this project was to gain hands-on familiarity with core ITSM ticketing operations in ServiceNow. I walked through the full lifecycle of a service request to practice navigating the platform UI, managing ticket states, and documenting support steps properly.
+
+---
+
+## 🛠️ What I Practiced
+* **Navigating ServiceNow Workspaces:** Accessing request forms, task lists, and ticket fields.
+* **Ticket Creation & Routing:** Setting up incident tasks, assigning priority levels, and routing to the `IT Securities` group.
+* **Work Note Auditing:** Updating ticket status to *Work in Progress* and writing clear internal notes for audit trails.
+* **Ticket Closure:** Documenting resolution steps and transitioning the task to *Closed Complete*.
+
+---
+
+## 📸 Workflow Execution
+
+### 1. Ticket Creation
+Formulated a new request task, assigned it to a group, and set the initial priority.
+
+### 2. Ticket Triage & Work Notes
+Updated the state to **Work in Progress** and logged internal notes detailing support actions.
+![Triage](./screenshots/02-triage.png)
+
+### 3. Resolution & Closure
+Documented the resolution notes and closed out the ticket.
+![Closure](./screenshots/03-resolution.png)
+
 MIT License
 
 Copyright (c) 2026 Daniela
